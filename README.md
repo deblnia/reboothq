@@ -1,2 +1,3 @@
 # reboothq
-Draft of a website for https://reboothq.substack.com/
+
+Draft of a website for https://reboothq.substack.com/, manifesting tenure. 
